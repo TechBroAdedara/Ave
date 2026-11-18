@@ -1,0 +1,6 @@
+[submodule "ave_frontend"]
+	path = ave_frontend
+	url = https://github.com/AveGeofencing/ave-frontend
+[submodule "ave_backend"]
+	path = ave_backend
+	url = https://github.com/AveGeofencing/Ave
